@@ -9,7 +9,7 @@ body{
     flex-direction: column;
     justify-content: center;
 }
-.navbar{     /*şimdilik boş kalacak.*/
+.navbar{
     background-color: rgb(34, 34, 34);
     width: 100%;
     height: 5vh;
